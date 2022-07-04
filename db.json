@@ -1,0 +1,24 @@
+{
+  "countries": [
+    {
+      "country": "India",
+      "id": 1
+    },
+    {
+      "country": "SriLanka",
+      "id": 2
+    },
+    {
+      "country": "USA",
+      "id": 3
+    }
+  ],
+  "city-countries": [
+    {
+      "country": "SriLanka",
+      "city": "Colombo",
+      "population": "5600000",
+      "id": 2
+    }
+  ]
+}
